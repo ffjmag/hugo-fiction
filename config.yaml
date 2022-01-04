@@ -14,8 +14,8 @@ module:
       target: static
     - source: exampleSite/static/images
       target: static/images
-summaryLength: '10'
-paginate: '6'
+summaryLength: "10"
+paginate: "6"
 outputs:
   home:
   - HTML
@@ -41,11 +41,11 @@ params:
     - link: plugins/search/search.js
   logo: images/logo.png
   home: Home
-  layout: '1'
+  layout: "1"
   description: This is meta description
   preloader: true
   search: true
-  author: FFJ
+  author: Themefisher
   author_image: images/banner-img.png
   bio: I’m a Freelance Interactive Art Director based in France. Focusing across branding
     and identity, digital and print.
@@ -54,10 +54,10 @@ params:
   address: 6 rip carl Avenue CA 90733
   contact_form_action: "#"
   google_analitycs_id: Your ID
-  copyright: Copyright &copy; 2022  [freedomfiction.com](freedomfiction.com)
+  copyright: Copyright &copy; 2020 a theme by [freedomfiction.com](freedomfiction.com)
   instafeed:
-    enable: false
-    access_token: ''
+    enable: true
+    access_token: IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn
   social:
   - icon: ti-facebook
     URL: "#"
@@ -70,10 +70,10 @@ params:
 menu:
   main:
   - name: Bookstore
-    weight: 4
+    weight: "4"
   - name: Submissions
-    weight: 3
+    weight: "3"
   - name: Twisted Tales
-    weight: 2
+    weight: "2"
   - name: About FFJ
-    weight: 1
+    weight: "1"
