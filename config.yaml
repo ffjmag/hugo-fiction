@@ -1,7 +1,7 @@
 ---
 baseURL: "/"
 languageCode: en-us
-title: FreedomFiction.com </br>~ an eclectic mix of all flavors of genre fiction
+title: FreedomFiction.com
 module:
   imports:
   - path: github.com/themefisher/parsa-hugo
