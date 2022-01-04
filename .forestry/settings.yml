@@ -5,8 +5,8 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: content
-  label: Post
+  path: fiction
+  label: Fiction
   create: documents
   match: "*"
   templates:
