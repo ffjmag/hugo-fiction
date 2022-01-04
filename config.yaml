@@ -14,8 +14,8 @@ module:
       target: static
     - source: exampleSite/static/images
       target: static/images
-summaryLength: "10"
-paginate: "6"
+summaryLength: '10'
+paginate: '6'
 outputs:
   home:
   - HTML
@@ -41,7 +41,7 @@ params:
     - link: plugins/search/search.js
   logo: images/logo.png
   home: Home
-  layout: "1"
+  layout: '1'
   description: This is meta description
   preloader: true
   search: true
@@ -70,10 +70,10 @@ params:
 menu:
   main:
   - name: Bookstore
-    weight: "4"
+    weight: 4
   - name: Submissions
-    weight: "3"
+    weight: 3
   - name: Twisted Tales
-    weight: "2"
+    weight: 2
   - name: About FFJ
-    weight: "1"
+    weight: 1
