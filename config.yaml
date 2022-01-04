@@ -56,8 +56,8 @@ params:
   google_analitycs_id: Your ID
   copyright: Copyright &copy; 2022  [freedomfiction.com](freedomfiction.com)
   instafeed:
-    enable: true
-    access_token: IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn
+    enable: false
+    access_token: ''
   social:
   - icon: ti-facebook
     URL: "#"
