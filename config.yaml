@@ -42,7 +42,7 @@ params:
   logo: ''
   home: Home
   layout: "1"
-  description: This is meta description
+  description: An eclectic mix of all flavours of genre fiction
   preloader: true
   search: true
   author: Themefisher
